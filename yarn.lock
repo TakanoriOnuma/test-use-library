@@ -6,9 +6,8 @@ inherits@2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
 
-"mylib@git+ssh://git@github.com/TakanoriOnuma/test-library.git":
+"mylib@file:.library/directory":
   version "1.0.0"
-  resolved "git+ssh://git@github.com/TakanoriOnuma/test-library.git#db48ee4460035335c8e31e96b6b5a4b322c8c322"
   dependencies:
     path "^0.12.7"
 

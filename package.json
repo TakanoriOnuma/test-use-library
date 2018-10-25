@@ -7,7 +7,7 @@
     "start": "node script.js"
   },
   "dependencies": {
-    "mylib": "git+ssh://git@github.com/TakanoriOnuma/test-library.git"
+    "mylib": "file:.library/directory"
   },
   "author": "",
   "license": "ISC"
