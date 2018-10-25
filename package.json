@@ -1,0 +1,14 @@
+{
+  "name": "test-use-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "mylib": "git+ssh://git@github.com/TakanoriOnuma/test-library.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
