@@ -8,7 +8,7 @@ inherits@2.0.3:
 
 "mylib@git+ssh://git@github.com/TakanoriOnuma/test-library.git":
   version "1.0.0"
-  resolved "git+ssh://git@github.com/TakanoriOnuma/test-library.git#db48ee4460035335c8e31e96b6b5a4b322c8c322"
+  resolved "git+ssh://git@github.com/TakanoriOnuma/test-library.git#a4c9100a450e7071336fd93ffa1fac95646991f4"
   dependencies:
     path "^0.12.7"
 

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node script.js"
+    "start": "node script.js",
+    "cli": "mylib-cli"
   },
   "dependencies": {
     "mylib": "git+ssh://git@github.com/TakanoriOnuma/test-library.git"
