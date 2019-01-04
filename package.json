@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node script.js",
-    "cli": "mylib-cli"
+    "cli": "mylib-cli --param test",
+    "cli-help": "mylib-cli --help"
   },
   "dependencies": {
     "mylib": "git+ssh://git@github.com/TakanoriOnuma/test-library.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
